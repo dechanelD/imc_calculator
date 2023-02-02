@@ -16,13 +16,14 @@ class rightBar extends StatelessWidget {
         Container(
           height:25 ,
           width: barWidth,
-          /*decoration: BoxDecoration(
+          decoration: BoxDecoration(
+            color: accenHexColor,
             borderRadius: BorderRadius.only(
               topRight: Radius.circular(20),
               bottomRight: Radius.circular(20),
               )
-          ),*/
-          color: accenHexColor,
+          ),
+          
           )
       ],
     );

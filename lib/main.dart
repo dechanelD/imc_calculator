@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:imc_calculator/screen/home.dart';
 import 'constants/app_constant.dart';
-import '';
 
 void main() {
   runApp(const MyApp());
